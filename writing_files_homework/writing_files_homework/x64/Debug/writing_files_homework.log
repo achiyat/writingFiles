@@ -1,0 +1,6 @@
+﻿  writing_files_homework.c
+C:\Users\achiy\source\repos\writing_files_homework\writing_files_homework\writing_files_homework.c(32): warning C4716: 'exercise1': must return a value
+C:\Users\achiy\source\repos\writing_files_homework\writing_files_homework\writing_files_homework.c(190): warning C4716: 'exercise5': must return a value
+C:\Users\achiy\source\repos\writing_files_homework\writing_files_homework\writing_files_homework.c(127): warning C4716: 'exercise4': must return a value
+C:\Users\achiy\source\repos\writing_files_homework\writing_files_homework\writing_files_homework.c(79): warning C4716: 'exercise2': must return a value
+  writing_files_homework.vcxproj -> C:\Users\achiy\source\repos\writing_files_homework\x64\Debug\writing_files_homework.exe
